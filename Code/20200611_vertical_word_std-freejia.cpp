@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// 세로읽기 (정올) 2020-06-10
+// 세로읽기  
 // http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2119&sca=2050
  
 
