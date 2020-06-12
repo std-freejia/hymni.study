@@ -6,7 +6,7 @@
 
 #### 문제 목록
 
-#### 2020-06-10
+#### 2020-06-11
 
 [vertical_word](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2119&sca=2050)
 
@@ -28,7 +28,7 @@
 
 ##### 코드
 
-출제일_문제이름_닉네임으로 자신의 코드를 업로드 해주세요. ex)20200605_pascal_std.cpp 
+출제일_문제이름_닉네임으로 자신의 코드를 업로드 해주세요. ex)20200605_pascal_std.cpp
 
 ------
 
