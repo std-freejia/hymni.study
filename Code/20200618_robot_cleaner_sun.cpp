@@ -3,10 +3,7 @@
 
 using namespace std;
 
-const int Max = 50;
-int map[Max][Max] = {0};
-
-int do_clean(int N, int M, int r, int c, int d, int map[][Max]);
+int do_clean(int r, int c, int d, int** map);
 
 int main(int argc, char* argv[], char* env[])
 {
@@ -15,12 +12,11 @@ int main(int argc, char* argv[], char* env[])
     cin>>N>>M;
     cin>>r>>c>>d;
     
-    //int map[N][M] = {0};
-    //int** map = (int**)malloc(sizeof(int*)*N);
-    //for(int i=0; i<N; i++)
-    //{
-    //    map[i] = (int*)malloc(sizeof(int)*M);
-    //}
+    int** map = (int**)malloc(sizeof(int*)*N);
+    for(int i=0; i<N; i++)
+    {
+        map[i] = (int*)malloc(sizeof(int)*M);
+    }
     
     for(int row=0; row<N; row++)
     {
@@ -29,14 +25,14 @@ int main(int argc, char* argv[], char* env[])
             cin>>map[row][col];
         }
     }
-   
-    cout<<do_clean(N, M, r, c, d, map);
     
-    //free(map);
+    cout<<do_clean(r, c, d, map);
+    
+    free(map);
     return 0;
 }
 
-int do_clean(int N, int M, int r, int c, int d, int map[][Max])
+int do_clean(int r, int c, int d, int** map)
 {
     int counter = 0;
     int stop = 0;
@@ -78,7 +74,6 @@ int do_clean(int N, int M, int r, int c, int d, int map[][Max])
                     }
                     
                     break;
-                    
                 }
             case 1:
                 {
@@ -150,7 +145,7 @@ int do_clean(int N, int M, int r, int c, int d, int map[][Max])
                             r++;
                         }
                         
-                        d = 3;
+                        d = 2;
                     }
                     
                     break;
