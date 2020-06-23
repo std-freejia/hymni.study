@@ -29,7 +29,7 @@ int main(int argc, char* argv[], char* env[])
             cin>>map[row][col];
         }
     }
-    
+   
     cout<<do_clean(N, M, r, c, d, map);
     
     //free(map);
