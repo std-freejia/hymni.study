@@ -22,7 +22,7 @@ int Sum_check(void){
 	return sum;
 } 
 
-void Combination(int idx, int cnt_choose){
+void Combination(int idx, int cnt_choose){ 
 	
 	int temp_sum = 0;
 	
@@ -30,7 +30,7 @@ void Combination(int idx, int cnt_choose){
 		// 합을 세 본다. 
 		temp_sum = Sum_check();
 		
-		if(temp_sum > max_sum && temp_sum <= sum_limit){
+		if(temp_sum > max_sum && temp_sum <= sum_limit){ // 최대이면서 제한값 안넘는 수. 
 			max_sum = temp_sum;
 		}
 		//printf("%d\n", temp_sum);
@@ -42,11 +42,11 @@ void Combination(int idx, int cnt_choose){
 		if(choose[i] == true){ // 이미 뽑은 것이면 지나간다  
 			continue;
 		}
-		choose[i] = true; // 하나 뽑는다.  
+		choose[i] = true; // 하나 뽑음 표시. 
 		
 		Combination(i+1, cnt_choose+1);
 		
-		choose[i] = 0;
+		choose[i] = false; // 안뽑는 것으로 되돌리기.  
 	}
 } 
 
@@ -62,10 +62,11 @@ int main(int argc, char** argv){
 		scanf("%d", &cards[i]);
 	}// 입력 받기 끝  
 	
-	Combination(0, 0);
+	Combination(0, 0); 
 	
 	printf("%d", max_sum);
 	
 	return 0;
 }
+
 
