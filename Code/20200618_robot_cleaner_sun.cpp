@@ -78,6 +78,7 @@ int do_clean(int N, int M, int r, int c, int d, int map[][Max])
                     }
                     
                     break;
+                    
                 }
             case 1:
                 {
