@@ -2,16 +2,6 @@
 
 안녕하세요. HYmni study github 입니다 :)
 
-
-
-#### 문제 목록
-
-#### 2020-06-11
-
-[vertical_word](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2119&sca=2050)
-
-[count_of_number](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=706&sca=2030)
-
 ------
 
 #### 2020-06-18
@@ -23,6 +13,17 @@
 [Robot Cleaner](https://www.acmicpc.net/problem/14503)
 
 ------
+
+#### 문제 목록
+
+#### 2020-06-11
+
+[vertical_word](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2119&sca=2050)
+
+[count_of_number](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=706&sca=2030)
+
+------
+
 
 #### 업로드 가이드
 
