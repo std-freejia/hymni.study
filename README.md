@@ -4,6 +4,18 @@
 
 ------
 
+#### 문제 목록
+
+#### 2020-06-24
+
+[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
+
+[Printer](https://programmers.co.kr/learn/courses/30/lessons/42587)
+
+[Paper Folding](https://programmers.co.kr/learn/courses/30/lessons/62049)
+
+------
+
 #### 2020-06-18
 
 [Hamming Distance](https://www.acmicpc.net/problem/3449)
