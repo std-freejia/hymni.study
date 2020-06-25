@@ -15,7 +15,9 @@ int* solution(int n) {
     while(axis < n)
     {
         index = (int)pow(2, axis) - 1;
+        
         counter = index;
+        
         answer[index] = 0;
         
         while(counter)
