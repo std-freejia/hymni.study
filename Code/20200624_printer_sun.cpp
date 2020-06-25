@@ -26,8 +26,6 @@ int solution(vector<int> priorities, int location) {
             {
                 ascending_order.pop_back();
                 
-                priorities[check_id] = 0;
-                
                 first_id = check_id;
                 
                 if(first_id == location)
@@ -37,6 +35,7 @@ int solution(vector<int> priorities, int location) {
                 else
                 {
                     answer++;
+                    
                     break;
                 }
             }
