@@ -36,6 +36,7 @@ int solution(vector<int> priorities, int location) {
                 {
                     answer++;
                     
+                    
                     break;
                 }
             }
