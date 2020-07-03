@@ -6,6 +6,16 @@
 
 #### 문제 목록
 
+#### 2020-07-03
+
+진영이는 길치 (Brute Force) - Question 디렉토리 참조
+
+[Line-Up (Longest Increasing Subsequence)](https://www.acmicpc.net/problem/2631)
+
+------
+
+#### 문제 목록
+
 #### 2020-06-24
 
 [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
