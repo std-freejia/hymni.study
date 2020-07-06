@@ -45,6 +45,8 @@ int main(int argc, char* argv[], char* env[])
 
 	cout<<endl;
 	
+	free(map);
+	
 	return 0;
 }
 
