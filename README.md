@@ -6,6 +6,16 @@
 
 #### 문제 목록
 
+2020-07-07 
+
+[SevenDwarf](https://www.acmicpc.net/problem/2309)
+
+[SumOfInteger](https://www.acmicpc.net/problem/9095)
+
+[N-Queen](https://www.acmicpc.net/problem/9663)
+
+---------------------------------
+
 #### 2020-07-03
 
 진영이는 길치 (Brute Force) - Question 디렉토리 참조
@@ -30,7 +40,7 @@
 
 [Hamming Distance](https://www.acmicpc.net/problem/3449)
 
-[Blackack](https://www.acmicpc.net/problem/2798)
+[Blackjack](https://www.acmicpc.net/problem/2798)
 
 [Robot Cleaner](https://www.acmicpc.net/problem/14503)
 
