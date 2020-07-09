@@ -5,7 +5,7 @@
 using namespace std;
 
 const int dwarf_num = 9;  // the number of dwarfs
-const int age_sum = 100;  // sum of seven dwarfs 
+const int height_sum = 100;  // sum of seven dwarfs 
 int overall_sum = 0;  // sum of all dwarfs
 
 int find_seven_dwarfs(vector<int> heights);
@@ -41,7 +41,7 @@ int find_seven_dwarfs(vector<int> heights)
     {
         for(fake_2=fake_1+1; fake_2<dwarf_num; fake_2++)
         {
-            if((overall_sum - heights[fake_1] - heights[fake_2]) == age_sum)
+            if((overall_sum - heights[fake_1] - heights[fake_2]) == height_sum)
             {
                 heights.erase(heights.begin() + fake_1);
                 heights.erase(heights.begin() + fake_2 - 1);
