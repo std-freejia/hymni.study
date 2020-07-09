@@ -6,7 +6,7 @@
 
 #### 문제 목록
 
-2020-07-07 
+2020-07-08
 
 [SevenDwarf](https://www.acmicpc.net/problem/2309)
 
