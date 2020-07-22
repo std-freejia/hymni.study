@@ -6,6 +6,16 @@
 
 #### 문제 목록
 
+2020-07-22
+
+[Diameter_of_tree](https://www.acmicpc.net/problem/1967)
+
+[Complete_binary_tree](https://www.acmicpc.net/problem/9934)
+
+---------------------------------
+
+#### 문제 목록
+
 2020-07-15
 
 [Steel_Bar](https://programmers.co.kr/learn/courses/30/lessons/42585)
