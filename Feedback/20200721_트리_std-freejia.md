@@ -251,7 +251,7 @@ void Postorder(Node* node) {
 
 ```c++
 #include <vector>
-#inclue <stdio.h>
+#include <stdio.h>
 #include <algorithm>
 using namespace std;
 
