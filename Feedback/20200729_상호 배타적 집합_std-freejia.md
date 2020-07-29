@@ -229,3 +229,4 @@ struct OptimizedDisjointSet{
 
 [유니온 파인드 개념](https://www.crocus.co.kr/683)
 
+알고리즘 문제해결전략 (구종만 저) 트리 챕터 상호배타적집합 코드 
