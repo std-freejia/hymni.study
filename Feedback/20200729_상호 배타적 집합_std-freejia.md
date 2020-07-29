@@ -1,10 +1,14 @@
-## 상호 배타적 집합
+## 상호 배타적 집합 
 
-상호 배타적 집합은 커다란 모집합이 여러 작은 집합들로 나뉜 상황을 표현하는 독특한 트리이다.
+모집합이 여러 작은 집합들로 나뉜 상황을 표현하는 독특한 트리
 
 </br>
 
-### 상호 배타적 집합을 표현하는 유니온 파인드(Union-Find) 자료구조
+### 상호 배타적 집합(Disjoint-Set)을 표현하는 유니온 파인드(Union-Find) 자료구조
+
+유니온-파인드는 '합집합 찾기'라는 의미를 가지고 있다. 
+
+서로소 집합 알고리즘 이라고도 한다. (1외에 공약수 없음)
 
 n 명의 사람 중에서 생일이 같은 사람들끼리 팀을 구성하는 상황을 생각해보자.
 
@@ -14,7 +18,7 @@ n 명의 사람 중에서 생일이 같은 사람들끼리 팀을 구성하는 �
 
 </br>
 
-> **필요한 3가지 연산**
+> **유니온 파인드 연산 3가지**
 >
 > n명의 사람을 0번부터 n-1번 까지의 원소로 표현한다. 
 >
@@ -48,6 +52,10 @@ n 명의 사람 중에서 생일이 같은 사람들끼리 팀을 구성하는 �
 
   루트는 부모가 없으므로 자기 자신을 가리킨다.
 
+  3의 부모는 4, 4의 부모는 5, 5의 부모는 5 자신이다. 재귀함수로 구현한다. 
+
+  </br>
+
 * Union(합치기) 연산
 
   각 트리의 루트를 찾고, 하나를 다른 한쪽의 자손으로 이어준다.
@@ -56,7 +64,55 @@ n 명의 사람 중에서 생일이 같은 사람들끼리 팀을 구성하는 �
 
 </br>
 
-### (코드) 트리로 상호 배타적 집합 구현하기 
+### 그림으로 보는 Union-Find (벡터로 구현)
+
+1. 초기화
+
+   ![초기화](https://t1.daumcdn.net/cfile/tistory/99483E355ADEE80C0B) 
+
+   노드 i의 부모 노드를 P[i]에 저장한다.
+
+   처음에 모든 노드의 부모는 자기 자신이다.
+
+   </br>
+
+2. Union
+
+   Union(1, 2) , Union(3, 4) 연산으로 노드를 2개씩 합친다. 
+
+   ![](https://t1.daumcdn.net/cfile/tistory/99C095335ADEEACA29)
+
+   ![](https://t1.daumcdn.net/cfile/tistory/99C0093A5ADEEAAE28)
+
+   2의 부모는 1로 변경된다. 
+
+   4의 부모는 3으로 변경된다. 
+
+   **1, 2, 3이 연결된다면?**
+
+   ![](https://t1.daumcdn.net/cfile/tistory/999FFA375ADEEBFA09)
+
+   ![](https://t1.daumcdn.net/cfile/tistory/9909CC455ADEEC6228)
+
+   3의 부모는 2가 된다. 
+
+   Union 연산이 끝난 후, 배열은 다음과 같이 갱신된다.
+
+   1, 2, 3의 부모는 모두 1이므로, 세 정점은 같은 집합에 속한다. 
+
+   ![](https://t1.daumcdn.net/cfile/tistory/9998A7435ADEED1733)
+
+   
+
+   </br>
+
+3. Find
+
+   자신이 속한 집합의 루트를 알아내기 위해 재귀 함수가 사용된다. 
+
+</br>
+
+### (코드) 트리로 상호 배타적 집합 구현
 
 ```c++
  
@@ -65,8 +121,8 @@ struct NaiveDisjointSet{
 	vector<int> parent; // 자신의 부모의 번호를 저장  
 	
 	NaiveDisjointSet(int n): parent(n){
-		for(int i = 0; i < n; i++){
-			parent[i] = i;
+		for(int i = 0; i < n; i++){ // 처음에는 자기 자신이 자신의 부모다. (혼자니까)
+			parent[i] = i; // 자신이 어떤 부모에 포함됬는지 기록 
 		}
 	} 
 	
@@ -92,6 +148,8 @@ struct NaiveDisjointSet{
 	
 }; 
 ```
+
+*union은 예약어이므로 함수명으로 사용할 수 없다.*
 
 </br>
 
@@ -133,7 +191,7 @@ struct OptimizedDisjointSet{
 			return u;
 		}
 		
-		return parent[u] = find(parent[u]);
+		return parent[u] = find(parent[u]); // 재귀호출 하면서 parent벡터 업데이트
 	} 
 	
 	// u가 속한 트리와 v가 속한 트리를 합친다  
@@ -141,8 +199,7 @@ struct OptimizedDisjointSet{
 	
 		u = find(u); // 양 트리의 루트를 찾아낸다 
 		v = find(v);
-		
-		
+				
 		if(u == v) return; // u와 v가 같은 트리에 속한 경우 종료. 
 		
 		// v를 u의 자식으로 넣는다. 
@@ -158,9 +215,17 @@ struct OptimizedDisjointSet{
 
 ```
 
-
-
 </br>
 
+
+
+------
+
+[출처]
+
 [트리를 이용한 상호 배타적 집합 그림 출처](https://beenpow.github.io/jongman/2019/12/31/Jongman-ch25-1/)
+
+[유니온 파인드 그림 출처](https://brenden.tistory.com/33)
+
+[유니온 파인드 개념](https://www.crocus.co.kr/683)
 
