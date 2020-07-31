@@ -231,7 +231,7 @@ void Postorder(Node* node) {
 
 **후위** 순회했을 때는 12, 9, 16, 36, 72, 54, **27**의 순서로 방문
 
-[트리 순회 순서 변경 문제링크] (https://algospot.com/judge/problem/read/TRAVERSAL)
+[트리 순회 순서 변경 - 알고스팟 문제 바로가기](https://algospot.com/judge/problem/read/TRAVERSAL)
 
 </br></br>
 
