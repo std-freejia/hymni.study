@@ -6,6 +6,16 @@
 
 ## 문제목록
 
+2020-08-03
+
+[Traversal 트리순회 백준1991](https://www.acmicpc.net/problem/1991)
+
+[Network_Connection 네트워크 연결 백준1922](https://www.acmicpc.net/problem/1922)
+
+[Parents 트리의 부모찾기 백준11725](https://www.acmicpc.net/problem/11725)
+
+------
+
 #### 2020-07-31  토픽
 
 - 우선순위 큐와 힙 (동혁)
