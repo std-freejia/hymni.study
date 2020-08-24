@@ -7,29 +7,23 @@
 ## 문제목록
 
 #### 2020-08-24  
-code.plus 알고리즘 기초 2/2의 카테고리 별 문제 참조 (https://code.plus/course/42)  
+code.plus 알고리즘 기초 2/2의 카테고리 별 문제 참조 (https://code.plus/course/42)   
 
+- 브루트 포스
 
+[Remote Controller, 백준 1107] (https://www.acmicpc.net/problem/1107)    
 
-*브루트 포스
+- 브루트 포스 - 재귀
 
-[Remote Controller, 백준 1107] (https://www.acmicpc.net/problem/1107)  
+[Password Generator, 백준 1759] (https://www.acmicpc.net/problem/1759)    
 
+- 그래프
 
-*브루트 포스 - 재귀
+[DFS and BFS, 백준 1260] (https://www.acmicpc.net/problem/1260)    
 
-[Password Generator, 백준 1759] (https://www.acmicpc.net/problem/1759)  
+- BFS
 
-
-*그래프
-
-[DFS and BFS, 백준 1260] (https://www.acmicpc.net/problem/1260)  
-
-
-*BFS
-
-[Hide-and-Seek, 백준 1697] (https://www.acmicpc.net/problem/1697)  
-
+[Hide-and-Seek, 백준 1697] (https://www.acmicpc.net/problem/1697)     
 
 ---------------------------------
 
