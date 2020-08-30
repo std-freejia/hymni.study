@@ -104,6 +104,8 @@ code.plus 알고리즘 기초 2/2의 카테고리 별 문제 참조 (https://cod
 
 #### 2020-06-24
 
+출제자 : SUN
+
 [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
 
 [Printer](https://programmers.co.kr/learn/courses/30/lessons/42587)
@@ -113,6 +115,8 @@ code.plus 알고리즘 기초 2/2의 카테고리 별 문제 참조 (https://cod
 ------
 
 #### 2020-06-18
+
+출제자 : LDH
 
 [Hamming Distance](https://www.acmicpc.net/problem/3449)
 
