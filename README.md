@@ -9,13 +9,13 @@
 #### 2020-08-31
 code.plus 알고리즘 기초 2/2의 브루트 포스 문제 참조 (https://code.plus/course/42)   
 
-  [Tetromino, 백준 14500] (https://www.acmicpc.net/problem/14500)    
+- [Tetromino, 백준 14500](https://www.acmicpc.net/problem/14500)    
 
-  [Maximum_Difference, 백준 10819] (https://www.acmicpc.net/problem/10819)    
+- [Maximum_Difference, 백준 10819](https://www.acmicpc.net/problem/10819)    
 
-  [Resignation, 백준 14501] (https://www.acmicpc.net/problem/14501)    
+- [Resignation, 백준 14501](https://www.acmicpc.net/problem/14501)    
 
-  [Sum_of_Integers, 백준 1182] (https://www.acmicpc.net/problem/1182)     
+- [Sum_of_Integers, 백준 1182](https://www.acmicpc.net/problem/1182)     
 
 ---------------------------------
 
