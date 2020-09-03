@@ -7,7 +7,6 @@ using namespace std;
 int N;
 int T[16];
 int P[16]; 
-int ch[16];
 int max_sum;
 
 void advice(int day, int sum){
