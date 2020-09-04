@@ -10,13 +10,13 @@
 
 code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : JIA
 
-- [Candy 사탕게임, 백준3085 ](https://www.acmicpc.net/problem/3085)    
+- [Candy  사탕게임, 백준3085 ](https://www.acmicpc.net/problem/3085)    
 
-- [TSP2 외판원 순회2, 백준10971](https://www.acmicpc.net/problem/10971)    
+- [TSP2  외판원 순회2, 백준10971](https://www.acmicpc.net/problem/10971)    
 
-- [InequalitySign 부등호, 백준2529](https://www.acmicpc.net/problem/2529)    
+- [PostfixNotation2  후위표기식2, 백준1935](https://www.acmicpc.net/problem/1935)    
 
-- [Goldbach 골드바흐의 추측, 백준6588](https://www.acmicpc.net/problem/6588)     
+- [Tomato  토마토, 백준7576](https://www.acmicpc.net/problem/7576)     
 
 ---------------------------------
 
