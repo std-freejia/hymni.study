@@ -6,8 +6,23 @@
 ---------------------------------
 ## 문제목록
 
+#### 2020-09-05
+
+code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : JIA
+
+- [Candy 사탕게임, 백준3085 ](https://www.acmicpc.net/problem/3085)    
+
+- [TSP2 외판원 순회2, 백준10971](https://www.acmicpc.net/problem/10971)    
+
+- [InequalitySign 부등호, 백준2529](https://www.acmicpc.net/problem/2529)    
+
+- [Goldbach 골드바흐의 추측, 백준6588](https://www.acmicpc.net/problem/6588)     
+
+---------------------------------
+
 #### 2020-08-31
-code.plus 알고리즘 기초 2/2의 브루트 포스 문제 참조 (https://code.plus/course/42)   
+
+code.plus 알고리즘 기초 2/2의 브루트 포스 문제 참조 (https://code.plus/course/42)   출제자 : SUN
 
 - [Tetromino, 백준 14500](https://www.acmicpc.net/problem/14500)    
 
@@ -20,7 +35,7 @@ code.plus 알고리즘 기초 2/2의 브루트 포스 문제 참조 (https://cod
 ---------------------------------
 
 #### 2020-08-24  
-code.plus 알고리즘 기초 2/2의 카테고리 별 문제 참조 (https://code.plus/course/42)   
+code.plus 알고리즘 기초 2/2의 카테고리 별 문제 참조 (https://code.plus/course/42)   출제자 : LDH
 
 - 브루트 포스
 
@@ -99,6 +114,8 @@ code.plus 알고리즘 기초 2/2의 카테고리 별 문제 참조 (https://cod
 
 #### 2020-07-08
 
+출제자 : JIA
+
 [SevenDwarf](https://www.acmicpc.net/problem/2309)
 
 [SumOfInteger](https://www.acmicpc.net/problem/9095)
@@ -109,7 +126,9 @@ code.plus 알고리즘 기초 2/2의 카테고리 별 문제 참조 (https://cod
 
 #### 2020-07-03
 
-진영이는 길치 (Brute Force) - Question 디렉토리 참조
+출제자 : MUSBY
+
+진영이는 길치 (Brute Force) - Question 디렉토리 참조 
 
 [Line-Up (Longest Increasing Subsequence)](https://www.acmicpc.net/problem/2631)
 
