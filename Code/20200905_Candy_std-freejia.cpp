@@ -2,14 +2,14 @@
 #include <algorithm>
 using namespace std;
 
-// 사탕게임 (3085)
+// 사탕게임 BOJ 3085  (지아) 
 
 int N;
 char B[51][51];
 int max_num;
 
 
-void swap(int i, int j, int d_flag){ // d_flag에 따라 아래 또는 오른쪽과 교환  
+void swap(int i, int j, int d_flag){  //  d_flag 1은 아래와 교환, 0은 오른쪽과 교환
 
 	char c = B[i][j];
 	
@@ -24,9 +24,9 @@ void swap(int i, int j, int d_flag){ // d_flag에 따라 아래 또는 오른쪽과 교환
 }
 
 
-void check(int i, int j, int d_flag){
+void check(int i, int j, int d_flag){  // 교환, 가로확인, 세로확인, 재교환.  
 
-	swap(i, j, d_flag); // 교환 
+	swap(i, j, d_flag); // 교환   
 	
 	int cnt = 1;
 		
@@ -74,6 +74,7 @@ int main(void){
 		}	
 	} // 입력받음  
  
+	
 	
 	for(int i = 0; i < N; i++){ // 탐색  
 	
