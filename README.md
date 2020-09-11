@@ -6,6 +6,20 @@
 ---------------------------------
 ## 문제목록
 
+#### 2020-09-11
+
+code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : LDH
+
+- [Find Alphabet, 백준 10809, 자료구조](https://www.acmicpc.net/problem/10809)    
+
+- [Editor, 백준 1406, 자료구조](https://www.acmicpc.net/problem/1406)    
+
+- [Fill Tile, 백준 2133, DP](https://www.acmicpc.net/problem/2133)    
+
+- [Start&Link, 백준 14889, 브루트포스 or DFS](https://www.acmicpc.net/problem/14889)     
+
+---------------------------------
+
 #### 2020-09-05
 
 code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : JIA
