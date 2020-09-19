@@ -6,6 +6,20 @@
 ---------------------------------
 ## 문제목록
 
+#### 2020-09-19
+
+code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : SUN
+
+- [Stack_Sequence, 백준 1874, 자료구조](https://www.acmicpc.net/problem/1874)    
+
+- [Pinary_Number, 백준 2193, DP](https://www.acmicpc.net/problem/2193)    
+
+- [N_and_M(9), 백준 15663, 브루트 포스](https://www.acmicpc.net/problem/15663)    
+
+- [Emoticon, 백준 14226, BFS](https://www.acmicpc.net/problem/14226)     
+
+---------------------------------
+
 #### 2020-09-11
 
 code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : LDH
