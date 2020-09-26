@@ -6,6 +6,17 @@
 ---------------------------------
 ## 문제목록
 
+#### 2020-09-26
+
+code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : JIA
+
+- [Goldbach_Partition, 백준 17103, 수학](https://www.acmicpc.net/problem/17103)    
+- [ABCDE, 백준 13023, 그래프](https://www.acmicpc.net/problem/13023)
+- [Piece-of-paper, 백준 14391, 브루트포스](https://www.acmicpc.net/problem/14391)
+- [Hide-and-seek3, 백준 13549, BFS](https://www.acmicpc.net/problem/13549)     
+
+-----
+
 #### 2020-09-19
 
 code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : SUN
