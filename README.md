@@ -6,6 +6,20 @@
 ---------------------------------
 ## 문제목록
 
+#### 2020-10-18
+
+code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : JIA
+
+- [Inequality_Sign, 부등호 백준 2529](https://www.acmicpc.net/problem/2529)
+
+- [Lotto, 로또 백준 6603](https://www.acmicpc.net/problem/6603)
+
+- [Bridge, 다리 만들기 백준 2146](https://www.acmicpc.net/problem/2146)
+
+- [Algospot , 알고스팟 백준 1261](https://www.acmicpc.net/problem/1261)
+
+-----
+
 #### 2020-10-11
 
 code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : SUN
