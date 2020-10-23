@@ -16,7 +16,6 @@ int visited[MAX + 1][MAX + 1] = { 0 };
 int diff[4][2] = { {-1, 0}, {1, 0}, {0, -1}, {0, 1} };
 int N = 0;
 int M = 0;
-int result = 0;
 deque<cell> path;
 
 int BFS(cell start);
