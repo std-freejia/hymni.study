@@ -6,6 +6,20 @@
 ---------------------------------
 ## 문제목록
 
+#### 2020-10-26
+
+code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : LDH
+
+- [Calculation_Date, 날짜 계산, 백준 1476](https://www.acmicpc.net/problem/1476)
+
+- [Wine_Tasting, 포도주 시식, 백준 2156](https://www.acmicpc.net/problem/2156)
+
+- [Goldbach, 골드바흐의 추측, 백준 6588](https://www.acmicpc.net/problem/6588)
+
+- [Buy_Card, 카드 구매하기, 백준 11052](https://www.acmicpc.net/problem/11052)
+
+-----
+
 #### 2020-10-18
 
 code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : JIA
