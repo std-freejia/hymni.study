@@ -6,6 +6,20 @@
 ---------------------------------
 ## 문제목록
 
+#### 2020-11-02
+
+code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : SUN
+
+- [The_Number_of_0s, 조합 0의 개수, 백준 2004](https://www.acmicpc.net/problem/2004)
+
+- [Sum_of_Squares, 제곱수의 합, 백준 1699](https://www.acmicpc.net/problem/1699)
+
+- [Suffix_Array, 접미사 배열, 백준 11656](https://www.acmicpc.net/problem/11656)
+
+- [Special_저지, BFS 스페셜 저지, 백준 16940](https://www.acmicpc.net/problem/16940)
+
+-----
+
 #### 2020-10-26
 
 code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : LDH
