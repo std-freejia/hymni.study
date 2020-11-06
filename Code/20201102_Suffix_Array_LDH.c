@@ -3,6 +3,7 @@
 #include <string.h>
 
 //BAEKJOON 11656, 접미사 배열, LDH
+//리눅스에서 실행 -> 정상 결과 출력, 백준 제출 -> 틀렸습니다 => 맞왜틀?
 
 int compare(const void *a, const void *b);
 
