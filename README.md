@@ -14,7 +14,7 @@ code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://
 - [Bipartite_graph, 이분그래프 백준1707](https://www.acmicpc.net/problem/1707)
 - [Knight, 나이트의 이동 백준7562](https://www.acmicpc.net/problem/7562)
 - [Imoticon, 이모티콘 백준14226](https://www.acmicpc.net/problem/14226)
-- [Hide-and-seek4, 숨바꼭질4 백준13549](https://www.acmicpc.net/problem/13549)
+- [Hide-and-seek4, 숨바꼭질4 백준13913](https://www.acmicpc.net/problem/13913)
 
 ----
 
