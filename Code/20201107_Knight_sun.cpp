@@ -42,7 +42,7 @@ int main(int argc, char* argv[], char* envs[])
     
     for(int i=0; i<tc_num; i++)
     {
-        // 큐 비어줘야 됨
+        // 큐 비워줘야 됨
         queue<pos> empty;
         swap(empty, bfs_q);
         // visited 배열 0으로 초기화
