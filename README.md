@@ -6,6 +6,17 @@
 ---------------------------------
 ## 문제목록
 
+#### 2020-11-14
+
+code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : LDH
+
+- [Zoo, 동물원, 백준 1309](https://www.acmicpc.net/problem/1309)
+- [Numbering, 단지번호 붙이기, 백준 2667](https://www.acmicpc.net/problem/2667)
+- [Uphill Number, 오르막 수, 백준 11057](https://www.acmicpc.net/problem/11057)
+- [Hide-and-seek6, 숨바꼭질6, 백준 17087](https://www.acmicpc.net/problem/17087)
+
+----
+
 #### 2020-11-07
 
 code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : JIA
