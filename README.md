@@ -6,6 +6,24 @@
 ---------------------------------
 ## 문제목록
 
+#### 2020-11-21
+
+code.plus [SW 역량 테스트 준비 - 기초](https://code.plus/course/32)의 문제 참조  출제자 : SUN
+
+JIA
+- [N_and_M(1), N과 M (1), 백준 15649](https://www.acmicpc.net/problem/15649)
+- [2×n_Tiling, 2×n 타일링, 백준 11726](https://www.acmicpc.net/problem/11726)
+
+LDH
+- [N_and_M(2), N과 M (2), 백준 15650](https://www.acmicpc.net/problem/15650)
+- [1_2_3_Addition_3, 1, 2, 3 더하기 3 , 백준 15988](https://www.acmicpc.net/problem/15988)
+
+SUN
+- [N_and_M(3), N과 M (3), 백준 15651](https://www.acmicpc.net/problem/15651)
+- [1_2_3_Addition_5, 1, 2, 3 더하기 5, 백준 15990](https://www.acmicpc.net/problem/15990)
+
+----
+
 #### 2020-11-14
 
 code.plus 알고리즘 기초 [1/2](https://code.plus/course/41), [2/2](https://code.plus/course/42)의 문제 참조  출제자 : LDH
