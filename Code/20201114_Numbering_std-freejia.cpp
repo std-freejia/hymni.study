@@ -9,8 +9,7 @@ int N;
 vector<int> danzi_v;  
 
 int danzi[26][26];
-int visit[26][26];
-
+ 
 int direction[4][2] = { // 상하좌우 4방향  
 	{1, 0}, {0, 1}, {-1, 0}, {0, -1}
 };
@@ -25,7 +24,7 @@ int BFS(int start_x, int start_y){
 	int cnt = 1; // 집 개수  
 	queue<pair<int,int> > q;
 	q.push({start_x, start_y});
-	visit[start_x][start_y] = 1; //방문 표시  
+    danzi[start_x][start_y] = 0;
 	
 	// 음수는 집이다. 
 	
@@ -39,12 +38,10 @@ int BFS(int start_x, int start_y){
 			int next_y = now_y + direction[i][1];
 			
 			if(!boundary(next_x, next_y)) continue; // 인덱스 범위 초과  
-			if(visit[next_x][next_y]) continue; // 이미 방문  
 			
 			if(danzi[next_x][next_y] != -1) continue;
 			 
 			q.push({next_x, next_y});
-			visit[next_x][next_y] = 1; // 방문표시
 			danzi[next_x][next_y] = 0;  
 			cnt++; // 집 개수  
  		}
