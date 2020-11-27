@@ -6,6 +6,30 @@
 ---------------------------------
 ## 문제목록
 
+#### 2020-11-28
+
+code.plus [SW 역량 테스트 준비 - 기초](https://code.plus/course/32)의 문제 참조  출제자 : JIA
+
+JIA
+
+- [ABCDE ,백준 13023 ABCDE](https://www.acmicpc.net/problem/13023)
+- [Tomato , 백준 7576 토마토](https://www.acmicpc.net/problem/7576)
+- [Algospot, 백준 1261 알고스팟](https://www.acmicpc.net/problem/1261)
+
+LDH
+
+- [DFS-BFS , 백준 1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)
+- [Islands 백준 4963 섬의 개수](https://www.acmicpc.net/problem/4963)
+- [Maze , 백준 2178 미로 탐색](https://www.acmicpc.net/problem/2178)
+
+SUN
+
+- [Operator insertion , 백준 15658 연산자 끼워넣기 (2)](https://www.acmicpc.net/problem/15658)
+- [Breaking the wall , 백준 2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+- [Escape , 백준 3055 탈출](https://www.acmicpc.net/problem/3055)
+
+----------------------
+
 #### 2020-11-21
 
 code.plus [SW 역량 테스트 준비 - 기초](https://code.plus/course/32)의 문제 참조  출제자 : SUN
