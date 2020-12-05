@@ -6,6 +6,24 @@
 ---------------------------------
 ## 문제목록
 
+#### 2020-12-05
+
+code.plus [SW 역량 테스트 준비 - 기초](https://code.plus/course/32), [SW 역량 테스트 준비 - 연습](https://code.plus/course/33)의 문제 참조  출제자 : JIA
+
+JIA
+
+- [Sticker, 백준 9465 스티커](https://www.acmicpc.net/problem/9465)
+- [Marble_Escape_2, 백준 13460 구슬 탈출 2](https://www.acmicpc.net/problem/13460)
+- [Puzzle, 백준 1525 퍼즐](https://www.acmicpc.net/problem/1525)
+
+SUN
+
+- [Stair_Number, 백준 10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
+- [2048(Easy), 백준 12100 2048(Easy)](https://www.acmicpc.net/problem/12100)
+- [Key, 백준 9328 열쇠](https://www.acmicpc.net/problem/9328)
+
+----------------------
+
 #### 2020-11-28
 
 code.plus [SW 역량 테스트 준비 - 기초](https://code.plus/course/32)의 문제 참조  출제자 : JIA
