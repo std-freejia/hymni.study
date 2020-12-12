@@ -6,9 +6,27 @@
 ---------------------------------
 ## 문제목록
 
+#### 2020-12-12
+
+[프로그래머스 level2](https://programmers.co.kr/learn/challenges) 문제 참고.   출제자: JIA
+
+SUN
+
+- [Biggest, 큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
+- [Lifeboat, 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
+- [LandGame, 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
+
+JIA
+
+- [Compression, 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+- [Fibonacci, 피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)
+- [Joystick, 조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
+
+--------------------
+
 #### 2020-12-05
 
-code.plus [SW 역량 테스트 준비 - 기초](https://code.plus/course/32), [SW 역량 테스트 준비 - 연습](https://code.plus/course/33)의 문제 참조  출제자 : JIA
+code.plus [SW 역량 테스트 준비 - 기초](https://code.plus/course/32), [SW 역량 테스트 준비 - 연습](https://code.plus/course/33)의 문제 참조  출제자 : SUN
 
 JIA
 
