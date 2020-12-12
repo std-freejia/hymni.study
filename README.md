@@ -8,7 +8,7 @@
 
 #### 2020-12-05
 
-code.plus [SW 역량 테스트 준비 - 기초](https://code.plus/course/32), [SW 역량 테스트 준비 - 연습](https://code.plus/course/33)의 문제 참조  출제자 : JIA
+code.plus [SW 역량 테스트 준비 - 기초](https://code.plus/course/32), [SW 역량 테스트 준비 - 연습](https://code.plus/course/33)의 문제 참조  출제자 : SUN
 
 JIA
 
