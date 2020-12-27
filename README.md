@@ -4,8 +4,30 @@
 
 
 ---------------------------------
+
 ## 문제목록
 
+#### 2020-12-27
+
+[프로그래머스 level 1, 2](https://programmers.co.kr/learn/challenges) 문제 참고.   출제자: NAMA
+
+SUN
+
+- [Ternary system, 3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
+- [Skill tree, 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
+
+JIA
+
+- [Add numbers, 두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
+- [Prime number, 소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
+
+NAMA
+
+- [Odd characters, 이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
+- [Least common multiple, N개의 최소 공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)
+
+
+--------------------
 
 #### 2020-12-19
 
