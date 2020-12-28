@@ -3,7 +3,6 @@
 2. The elements in a set are always sorted.
 */
 
-#include <string>
 #include <vector>
 #include <set>
 
