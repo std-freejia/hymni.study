@@ -9,21 +9,21 @@
 
 #### 2021-01-09
 
-[프로그래머스 level2, 월간 코드 챌린지 시즌1](https://programmers.co.kr/learn/challenges) 문제 참고.   출제자: MUSBY
+[프로그래머스 level2, 월간 코드 챌린지 시즌1, Summer/Wuinter Coding(~2018)](https://programmers.co.kr/learn/challenges) 문제 참고.   출제자: MUSBY
 
 SUN
 
-- [문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938)
+- [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)
 
 JIA
 
-- [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
-- [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
+- [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) - Summer/Wuinter Coding(~2018)
+- [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
 
 
 NAMA
 
-- [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
+- [문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938)
 
 MUSBY
 
