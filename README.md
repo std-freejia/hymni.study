@@ -13,22 +13,22 @@
 
 SUN
 
-- [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) - 월간 코드 챈린지 시즌1
+- [Quad Compression, 쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) - 월간 코드 챈린지 시즌1
 
 JIA
 
-- [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) - Summer/Wuinter Coding(~2018)
-- [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) - Summer/Wuinter Coding(~2018)
+- [Word Cahin, 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) - Summer/Wuinter Coding(~2018)
+- [Jump and Teleportation, 점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) - Summer/Wuinter Coding(~2018)
 
 
 NAMA
 
-- [문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938) - 월간 코드 챈린지 시즌1
+- [Beauty of String, 문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938) - 월간 코드 챈린지 시즌1
 
 MUSBY
 
-- [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) - 월간 코드 챈린지 시즌1
-- [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) - Level2
+- [Binary Maker, 이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) - 월간 코드 챈린지 시즌1
+- [124Land, 124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) - Level2
 
 --------------------
 
