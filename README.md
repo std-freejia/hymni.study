@@ -17,7 +17,7 @@ SUN
 
 JIA
 
-- [Word Cahin, 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) - Summer/Wuinter Coding(~2018)
+- [Word Chain, 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) - Summer/Wuinter Coding(~2018)
 - [Jump and Teleportation, 점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) - Summer/Wuinter Coding(~2018)
 
 
