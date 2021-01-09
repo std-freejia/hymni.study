@@ -9,26 +9,26 @@
 
 #### 2021-01-09
 
-[프로그래머스 level2, 월간 코드 챌린지 시즌1, Summer/Wuinter Coding(~2018)](https://programmers.co.kr/learn/challenges) 문제 참고.   출제자: MUSBY
+[프로그래머스](https://programmers.co.kr/learn/challenges) 문제 참고.   출제자 : MUSBY
 
 SUN
 
-- [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)
+- [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) - 월간 코드 챈린지 시즌1
 
 JIA
 
 - [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) - Summer/Wuinter Coding(~2018)
-- [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
+- [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) - Summer/Wuinter Coding(~2018)
 
 
 NAMA
 
-- [문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938)
+- [문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938) - 월간 코드 챈린지 시즌1
 
 MUSBY
 
-- [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)
-- [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
+- [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) - 월간 코드 챈린지 시즌1
+- [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) - Level2
 
 --------------------
 
