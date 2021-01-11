@@ -24,7 +24,7 @@ vector<int> solution(vector<vector<int>> arr) {
         }
     }
     
-    // unit * unit 단위로 압촉
+    // unit * unit 단위로 압촉 (2*2, 4*4, 8*8....)
     while(unit <= size)
     {
         for(i=0; i<size; i+=unit)
