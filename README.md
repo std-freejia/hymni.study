@@ -7,6 +7,18 @@
 
 ## 문제목록
 
+-------------
+
+#### 2021-01-16
+
+[CodiGame](https://www.codingame.com/training/easy) 참고.   출제자 : MUSBY
+
+* Onboarding
+* Power of THOR
+* TEMPERATURES
+
+-------
+
 #### 2021-01-09
 
 [프로그래머스](https://programmers.co.kr/learn/challenges) 문제 참고.   출제자 : MUSBY
@@ -17,8 +29,8 @@ SUN
 
 JIA
 
-- [Word Chain, 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) - Summer/Wuinter Coding(~2018)
-- [Jump and Teleportation, 점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) - Summer/Wuinter Coding(~2018)
+- [Word Chain, 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) - Summer/Winter Coding(~2018)
+- [Jump and Teleportation, 점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) - Summer/Winter Coding(~2018)
 
 
 NAMA
