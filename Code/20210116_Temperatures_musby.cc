@@ -15,6 +15,7 @@ int main()
         int t;
         scanf("%d", &t);
         
+        // MUSBY CODE!!!
         (0 == i) ? min = INT_MAX : false;
 
         if(abs(t) < abs(min)){
