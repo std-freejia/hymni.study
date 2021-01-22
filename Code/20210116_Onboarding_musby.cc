@@ -21,7 +21,7 @@ int main()
         int dist_2;
         scanf("%d", &dist_2);
         
-        //MUSBY CODE
+        //MUSBY CODE!!!
         (dist_1 < dist_2) ? printf("%s\n", enemy_1) : printf("%s\n", enemy_2);
     }
 
