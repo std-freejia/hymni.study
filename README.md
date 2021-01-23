@@ -9,6 +9,35 @@
 
 -------------
 
+#### 2021-01-23
+
+[프로그래머스](https://programmers.co.kr/learn/challenges) & [Hackerrank](https://www.hackerrank.com/domains/sql) 문제 참고. 출제자 : LDH
+
+SUN
+- [Lifeboat, 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
+- [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) - SQL 문제
+
+JIA
+- [Phone Book, 전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
+- [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) - SQL 문제
+
+NAMA
+- [Training Uniform, 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+- [African Cites](https://www.hackerrank.com/challenges/african-cities/problem) - SQL 문제
+
+MUSBY
+- [Failure Rate, 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
+- [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) - SQL 문제
+
+LDH
+- [Collatz Conjecture, 콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)
+- [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) - SQL 문제
+
+(도전) 프로그래머스 3단계 문제
+- [Stepping-stone, 징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)
+
+-------------
+
 #### 2021-01-16
 
 [CodiGame](https://www.codingame.com/training/easy) 참고.   출제자 : MUSBY
