@@ -12,7 +12,7 @@ int solution(int num) {
             break;
         }
         
-        temp = temp & 1 ? (temp * 3 + 1) : (temp / 2);
+        temp = temp & 1 ? (temp * 3 + 1) : (temp >> 1);
         
         answer++;
     }
