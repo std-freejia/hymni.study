@@ -9,6 +9,32 @@
 
 -------------
 
+#### 2021-02-05
+
+#웹사이트가 POST 방식으로 구성되어 있어, 링크를 업로드 할 수 없어요. 회원가입/로그인 뒤에 "Practice" 탭에서 문제명으로 검색하시거나, 분류를 "연습문제"로 적용하신 뒤에 찾으시면 됩니다.
+
+[삼성 코드그라운드](https://www.codeground.org) 문제 참고. 출제자 : MUSBY
+
+SUN
+- [Chemist, 화학자의 문장]
+
+JIA
+- [PickNum, 숫자 골라내기]
+
+NAMA
+- [NiceNum, 좋은 수]
+
+MUSBY
+- [RoomInMaze, 미궁 속의 방]
+
+LDH
+- [Starbucks, 스타벅스]
+
+Challenge
+- [SortNum, 정수 정렬하기(10000)]
+
+-------------
+
 #### 2021-01-23
 
 [프로그래머스](https://programmers.co.kr/learn/challenges) & [Hackerrank](https://www.hackerrank.com/domains/sql) 문제 참고. 출제자 : LDH
