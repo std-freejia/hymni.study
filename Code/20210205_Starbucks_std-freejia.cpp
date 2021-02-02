@@ -1,12 +1,3 @@
-/*
-You should use the statndard input/output
-
-in order to receive a score properly.
-
-Do not use file input and output
-
-Please be very careful. 
-*/
 #include <algorithm>
 #include <iostream>
 #include <vector>
@@ -14,7 +5,8 @@ Please be very careful.
 using namespace std;
 
 
-// 스타벅스 Starbucks
+// 스타벅스 Starbucks -- 100점 
+
 
 int Answer;
 
@@ -25,15 +17,13 @@ int main() {
 	N = M = K = 0;
 	vector<int> order, price;
 
-    //freopen("input.txt", "rt", stdin);
 	cin >> T;
 
 	for (test_case = 0; test_case < T; test_case++)
 	{
 		int sum = 0;
-		
-		// 인원 수. 커피종류. 예산. 
-		cin >> N >> M >> K; 
+
+		cin >> N >> M >> K;  		// 인원 수. 커피종류. 예산. 
 		
 		for (int i = 0; i < N; i++) {
 			cin >> num;
