@@ -31,26 +31,26 @@ int main(int argc, char** argv)
 		string st;
 		cin >> st;
 
-		int idx = 0;
+		int idx = 0; // 문자열에서 이동할 인덱스 
 
 		while (idx < st.size()) {
 
-			if (idx < st.size()) {
-				string temp = st.substr(idx, 1);
+			if (idx < st.size()) { // 길이1 문자열 검사 
+				string temp = st.substr(idx, 1); // 길이1 문자열 추출하여 벡터에 존재하는지 확인 
 				bool ok = any_of(symbols.begin(), symbols.end(), [temp](string x) { return x == temp; });
 
-				if (ok) {
+				if (ok) { // 있음
 					idx = idx + 1;
 					continue;
 				}
 			}
 
-			if (idx < st.size()-1) {
+			if (idx < st.size()-1) { // 길이2 문자열 검사 
 
-				string temp = st.substr(idx, 2);
+				string temp = st.substr(idx, 2); // 길이2 문자열 추출하여 벡터에 존재하는지 확인 
 				bool ok = any_of(symbols.begin(), symbols.end(), [temp](string x) { return x == temp; });
 
-				if (ok) {
+				if (ok) { // 있음 
 					idx = idx + 2;
 					continue;
 				}
@@ -58,13 +58,11 @@ int main(int argc, char** argv)
 					Answer = "NO";
 					break;
 				}
-	
 			}
 			else {
 				Answer = "NO";
 				break;
 			}
-		
 		}			
 
 		cout << "Case #" << test_case + 1 << '\n';
