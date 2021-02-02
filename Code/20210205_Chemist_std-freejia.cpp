@@ -4,7 +4,7 @@
 #include <string>
 using namespace std;
 
-// 화학자의 문장 -- 88.435점 
+// 화학자의 문장 -- 93.481
 
 string Answer;
 vector<string> symbols{
@@ -25,6 +25,11 @@ int main(int argc, char** argv)
 	int T, test_case;
 	cin >> T;
 	
+	// 문자열 통째로 소문자 문자열로 변환 
+	for (int i = 0; i < symbols.size(); i++) { 
+		transform(symbols[i].begin(), symbols[i].end(), symbols[i].begin(), ::tolower);
+	}
+		
 	for(test_case = 0; test_case  < T; test_case++)
 	{
 		Answer = "YES";
