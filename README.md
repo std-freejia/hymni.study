@@ -9,6 +9,46 @@
 
 -------------
 
+
+
+#### 2021-02-19 (스터디날짜)
+
+[삼성 코드그라운드](https://www.codeground.org) 문제 참고. "Practice"탭에서 문제 명으로 검색하기.  출제 : JIA
+
+SUN
+
+- [CountOfBit, 1비트 개수 세기]
+- [Weather Observation Station6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) -SQL 
+
+JIA
+
+- [Exam, 시험공부]
+- [Weather Observation Station8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) -SQL 
+
+NAMA
+
+- [Coupon, 할인권]
+- [Weather Observation Station10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) -SQL
+
+MUSBY
+
+- [DartGame, 다트 게임]
+- [Average Population](https://www.hackerrank.com/challenges/average-population/problem) -SQL
+
+LDH
+
+- [CoinChange, 잔돈]
+- [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) -SQL
+
+Challenge
+
+- [DontWorry, 태준이의 걱정]
+- [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) -SQL
+
+</br>
+
+-----
+
 #### 2021-02-05
 
 ## 웹사이트가 POST 방식으로 구성되어 있어, 링크를 업로드 할 수 없어요. 회원가입/로그인 뒤에 "Practice" 탭에서 문제명으로 검색하시거나, 분류를 "연습문제"로 적용하신 뒤에 찾으시면 됩니다.
