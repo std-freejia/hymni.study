@@ -3,8 +3,7 @@
 using namespace std;
 
 
-// 할인권 --30점 
-// 100점 받고 싶다...
+// 할인권 --100점  
 
 
 int Answer, n, m, k; 
@@ -16,14 +15,14 @@ int main(int argc, char** argv)
 	int T, test_case;
 	cin >> T;
 
-	// 2차원 배열 초기화 fill( 배열의 시작 주소, 종료 주소, 값 )
-	fill(cost[0], cost[0] + (101*101), 1e6);
- 
 	for (test_case = 0; test_case < T; test_case++)
 	{
 		Answer = 0;
 		cin >> n >> m >> k;  // 정거장 개수, 경로 개수, 할인권 비용 
 
+		// 2차원 배열 초기화 fill( 배열의 시작 주소, 종료 주소, 값 )
+		fill(cost[0], cost[0] + (101*101), 1e6);
+	
 		while (m--) { // 존재하는 경로의 비용 
 			cin >> a >> b >> c;
 			cost[a][b] = cost[b][a] = c;
