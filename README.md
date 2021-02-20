@@ -10,6 +10,41 @@
 -------------
 
 
+#### 2021-02-26 (스터디날짜)
+
+code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)의 문제 참조  출제자 : SUN
+
+JIA
+
+- [Sum_of_Factors_2, 백준 17427 약수의 합 2](https://www.acmicpc.net/problem/17427)
+- [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) -SQL
+
+LDH
+
+- [Kaiing_Empire, 백준 6064 카잉 달력](https://www.acmicpc.net/problem/6064)
+- [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) -SQL
+
+MUSBY
+
+- [Array_Overturn, 백준 16935 배열 돌리기 3](https://www.acmicpc.net/problem/16935)
+- [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) -SQL
+
+NAMA
+
+- [Deque, 백준 10866 덱](https://www.acmicpc.net/problem/10866)
+- [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) -SQL
+
+SUN
+
+- [LIS, 백준 11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+- [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) -SQL
+
+Challenge
+
+- [Roll_the_Dice, 백준 14499 주사위 굴리기](https://www.acmicpc.net/problem/14499)
+- [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) -SQL
+
+----------------------
 
 #### 2021-02-19 (스터디날짜)
 
