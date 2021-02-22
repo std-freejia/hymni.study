@@ -1,3 +1,5 @@
+/* MySQL - NAMA _ 20210226 */
+
 /* Select By ID */
 select * from CITY where ID=1661
 
