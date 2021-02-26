@@ -8,7 +8,36 @@
 ## 문제목록
 
 -------------
+#### 2021-03-05 (스터디날짜)
 
+code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)의 문제 참조  출제자 : LDH
+
+JIA
+
+- [Link&Start, 백준 15661 링크와 스타트](https://www.acmicpc.net/problem/15661)
+- [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) -SQL
+
+SUN
+
+- [NM_and_K(1), 백준 18290 NM과 K(1)](https://www.acmicpc.net/problem/18290)
+- [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) -SQL
+
+NAMA
+
+- [Inequality_Sign, 백준 2529 부등호](https://www.acmicpc.net/problem/2529)
+- [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) -SQL
+
+LDH
+
+- [1_2_3Addition, 백준 9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095)
+- [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) -SQL
+
+Challenge
+
+- [Password_Generator, 백준 1759 암호 만들기](https://www.acmicpc.net/problem/1759)
+- [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) -SQL
+
+----------------------
 
 #### 2021-02-26 (스터디날짜)
 
