@@ -31,11 +31,11 @@ code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)�
 
 ### programmers  level 1, level 2 참조 
 
-- [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) 
-- [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
-- [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
-- [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) 
-- [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
+- [Marathon, 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) 
+- [Simulation, 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
+- [Weird letters, 이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
+- [Harshad number, 하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) 
+- [Joystick, 조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
 
 </br>
 
