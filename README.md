@@ -7,6 +7,36 @@
 
 ## 문제목록
 
+
+
+-------------
+
+#### 2021-03-14 (스터디날짜)
+
+code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)의 문제 참조  출제자 : JIA
+
+BOJ
+
+- [Prime_Number, 소수 구하기](https://www.acmicpc.net/problem/1929)
+- [NM1, N과M(1) ](https://www.acmicpc.net/problem/15649)
+- [NM1, N과M(2) ](https://www.acmicpc.net/problem/15650)
+- [NM1, N과M(3) ](https://www.acmicpc.net/problem/15651)
+- [NM4, N과M(4) ](https://www.acmicpc.net/problem/15652)
+
+SQL [Hackerrank](https://www.hackerrank.com/domains/sql) 
+
+- [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)
+
+- [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)
+
+- [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)
+
+- [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)
+
+- [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)
+
+  
+
 -------------
 #### 2021-03-05 (스터디날짜)
 
