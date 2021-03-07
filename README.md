@@ -11,19 +11,35 @@
 
 -------------
 
-#### 2021-03-14 (스터디날짜)
+#### 2021-03-14 (스터디날짜) 
+
+#### PS5개, SQL5개 
 
 code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)의 문제 참조  출제자 : JIA
 
-BOJ
+### BOJ
 
-- [NM1, 백준 15649번 N과M(1) ](https://www.acmicpc.net/problem/15649)
-- [NM2, 백준 15650번 N과M(2) ](https://www.acmicpc.net/problem/15650)
-- [NM3, 백준 15651번 N과M(3) ](https://www.acmicpc.net/problem/15651)
-- [NM4, 백준 15652번 N과M(4) ](https://www.acmicpc.net/problem/15652)
-- [NM5, 백준 15654번 N과M(5) ](https://www.acmicpc.net/problem/15654)
+- [NM1, 15649번 N과M(1) ](https://www.acmicpc.net/problem/15649)
+- [NM2, 15650번 N과M(2) ](https://www.acmicpc.net/problem/15650)
+- [NM3, 15651번 N과M(3) ](https://www.acmicpc.net/problem/15651)
+- [NM4, 15652번 N과M(4) ](https://www.acmicpc.net/problem/15652)
+- [NM5, 15654번 N과M(5) ](https://www.acmicpc.net/problem/15654)
 
-SQL [Hackerrank](https://www.hackerrank.com/domains/sql) 
+</br>
+
+아무래도 BOJ 문제들이 괴롭다 싶으시면, 아래 5문제를 푸셔도 좋습니다. 
+
+### programmers  level 1, level 2 참조 
+
+- [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) 
+- [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
+- [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
+- [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) 
+- [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
+
+</br>
+
+### SQL [Hackerrank](https://www.hackerrank.com/domains/sql) 
 
 - [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)
 
@@ -36,6 +52,8 @@ SQL [Hackerrank](https://www.hackerrank.com/domains/sql)
 - [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)
 
   
+
+</br> 화이팅!
 
 -------------
 #### 2021-03-05 (스터디날짜)
