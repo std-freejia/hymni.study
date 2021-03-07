@@ -17,11 +17,11 @@ code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)�
 
 BOJ
 
-- [Prime_Number, 소수 구하기](https://www.acmicpc.net/problem/1929)
-- [NM1, N과M(1) ](https://www.acmicpc.net/problem/15649)
-- [NM1, N과M(2) ](https://www.acmicpc.net/problem/15650)
-- [NM1, N과M(3) ](https://www.acmicpc.net/problem/15651)
-- [NM4, N과M(4) ](https://www.acmicpc.net/problem/15652)
+- [NM1, 백준 15649번 N과M(1) ](https://www.acmicpc.net/problem/15649)
+- [NM2, 백준 15650번 N과M(2) ](https://www.acmicpc.net/problem/15650)
+- [NM3, 백준 15651번 N과M(3) ](https://www.acmicpc.net/problem/15651)
+- [NM4, 백준 15652번 N과M(4) ](https://www.acmicpc.net/problem/15652)
+- [NM5, 백준 15654번 N과M(5) ](https://www.acmicpc.net/problem/15654)
 
 SQL [Hackerrank](https://www.hackerrank.com/domains/sql) 
 
