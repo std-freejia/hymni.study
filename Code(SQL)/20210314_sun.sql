@@ -1,0 +1,26 @@
+/* Revising Aggregations - Averages */
+SELECT AVG(POPULATION)
+FROM CITY
+WHERE DISTRICT = 'California';
+
+/* Weather Observation Station 13 */
+SELECT ROUND(SUM(LAT_N), 4)
+FROM STATION
+WHERE 38.7880 < LAT_N AND LAT_N < 137.2345;
+
+/* Average Population of Each Continent */
+SELECT COUNTRY.CONTINENT, FLOOR(AVG(CITY.POPULATION))
+FROM CITY
+INNER JOIN COUNTRY
+ON CITY.COUNTRYCODE = COUNTRY.CODE
+GROUP BY COUNTRY.CONTINENT;
+
+/* Revising Aggregations - The Sum Function */
+SELECT SUM(POPULATION)
+FROM CITY
+WHERE DISTRICT = 'California';
+
+/* Weather Observation Station 14 */
+SELECT ROUND(MAX(LAT_N), 4)
+FROM STATION
+WHERE LAT_N < 137.2345;
