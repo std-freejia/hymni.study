@@ -11,6 +11,36 @@
 
 -------------
 
+#### 2021-03-28 (스터디날짜) 
+
+#### BOJ5개, SQL5개 
+
+code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)의 문제 참조  출제자 : SUN
+
+### BOJ
+
+- [Algospot, 1261번 알고스팟 ](https://www.acmicpc.net/problem/1261)
+- [Hide-and-seek3, 13549번 숨바꼭질3 ](https://www.acmicpc.net/problem/13549)
+- [Hide-and-seek, 1697번 숨바꼭질 ](https://www.acmicpc.net/problem/1697)
+- [Hide-and-seek4, 13913번 숨바꼭질4 ](https://www.acmicpc.net/problem/13913)
+- [Emoticon, 14226번 이모티콘 ](https://www.acmicpc.net/problem/14226)
+
+</br>
+
+### SQL [Hackerrank](https://www.hackerrank.com/domains/sql) 
+
+- [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)
+
+- [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)
+
+- [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)
+
+- [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)
+
+- [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)
+
+-------------
+
 #### 2021-03-14 (스터디날짜) 
 
 #### PS5개, SQL5개 
@@ -56,6 +86,7 @@ code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)�
 </br> 화이팅!
 
 -------------
+
 #### 2021-03-05 (스터디날짜)
 
 code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)의 문제 참조  출제자 : LDH
