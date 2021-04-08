@@ -7,7 +7,29 @@
 
 ## 문제목록
 
+</br>
 
+#### 2021-04-11 (스터디날짜) 
+
+#### BOJ5개, SQL5개 
+
+code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)의 문제 참조  출제자 : JIA
+
+### BOJ
+
+- [LIS, 11053번 - 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+- [LIS4, 14002번 - 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
+- [1, 4375번 - 1](https://www.acmicpc.net/problem/4375)
+- [aliquot ,17427번 - 약수의 합 2](https://www.acmicpc.net/problem/17427)
+- [continual_sum, 1912번 - 연속합](https://www.acmicpc.net/problem/1912)
+
+</br>
+
+### SQL [Hackerrank](https://www.hackerrank.com/domains/sql) 
+
+
+
+</br>
 
 -------------
 
