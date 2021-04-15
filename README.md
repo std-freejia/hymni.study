@@ -21,11 +21,16 @@ code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)�
 - [1699번 - 제곱수의 합](https://www.acmicpc.net/problem/1699)
 - [14501번 - 퇴사](https://www.acmicpc.net/problem/14501)
 
-코드는 20210418_BOJ2193_jia.cc 로 업로드 해주세요:)
+코드 제목 20210418_BOJ2193_jia.cc 로 업로드 해주세요:)
 
 ### SQL [Hackerrank](https://www.hackerrank.com/domains/sql) 
 
+* [The Report](https://www.hackerrank.com/challenges/the-report/problem)
+* [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)
+* [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)
+* [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/forum)
 
+안 푼 'Easy' 4개만 출제!
 
 </br>
 
