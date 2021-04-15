@@ -1,6 +1,6 @@
-## Study README
+## Problem Solving Study
 
-안녕하세요. HYmni study github 입니다 :)
+우리 같이 꾸준히 화이팅 :)
 
 
 ---------------------------------
@@ -8,6 +8,28 @@
 ## 문제목록
 
 </br>
+
+### 2021-04-18(일) 오전11시
+
+code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)의 문제 참조  출제자 : JIA
+
+### BOJ
+
+- [2193번 - 이친수](https://www.acmicpc.net/problem/2193)
+- [15988번 - 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)
+- [15990번 - 1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)
+- [1699번 - 제곱수의 합](https://www.acmicpc.net/problem/1699)
+- [14501번 - 퇴사](https://www.acmicpc.net/problem/14501)
+
+코드는 20210418_BOJ2193_jia.cc 로 업로드 해주세요:)
+
+### SQL [Hackerrank](https://www.hackerrank.com/domains/sql) 
+
+
+
+</br>
+
+--------------
 
 #### 2021-04-11 (스터디날짜) 
 
@@ -26,10 +48,6 @@ code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)�
 </br>
 
 ### SQL [Hackerrank](https://www.hackerrank.com/domains/sql) 
-
-
-
-</br>
 
 -------------
 
