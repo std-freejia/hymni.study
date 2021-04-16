@@ -1,0 +1,30 @@
+/* The Report */
+
+/* Weather Observation Station 9 */
+SELECT DISTINCT CITY
+FROM STATION
+WHERE LEFT(CITY, 1) NOT IN ('a', 'e', 'i', 'o', 'u');
+
+SELECT DISTINCT CITY
+FROM STATION
+WHERE CITY NOT REGEXP '^[aeiou]';
+
+SELECT DISTINCT CITY
+FROM STATION
+WHERE CITY REGEXP '^[^aeiou]';
+
+/* Weather Observation Station 15 */
+SELECT ROUND(LONG_W, 4)
+FROM STATION
+WHERE LAT_N < 137.2345
+ORDER BY LAT_N DESC
+LIMIT 1;
+
+SELECT ROUND(LONG_W, 4)
+FROM STATION
+WHERE LAT_N = (
+    SELECT MAX(LAT_N)
+    FROM STATION
+    WHERE LAT_N < 137.2345);
+
+/* Weather Observation Station 18 */
