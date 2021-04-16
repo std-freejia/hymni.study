@@ -1,4 +1,8 @@
 /* The Report */
+SELECT IF(Grade < 8, NULL, Name), Grade, Marks
+FROM Students JOIN Grades
+WHERE Marks BETWEEN Min_Mark AND MAX_Mark
+ORDER BY Grade DESC, Name;
 
 /* Weather Observation Station 9 */
 SELECT DISTINCT CITY
@@ -28,3 +32,5 @@ WHERE LAT_N = (
     WHERE LAT_N < 137.2345);
 
 /* Weather Observation Station 18 */
+SELECT ROUND((MAX(LAT_N) - MIN(LAT_N) + MAX(LONG_W) - MIN(LONG_W)), 4)
+FROM STATION;
