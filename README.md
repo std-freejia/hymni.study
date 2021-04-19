@@ -9,6 +9,24 @@
 
 </br>
 
+### 2021-04-25(일) 오전11시
+
+code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)의 문제 참조  출제자 : SUN
+
+### BOJ
+
+- [2133번 - 타일 채우기](acmicpc.net/problem/2133)
+- [13398번 - 연속합 2](https://www.acmicpc.net/problem/13398)
+- [11722번 - 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
+- [1149번 - RGB거리](https://www.acmicpc.net/problem/1149)
+- [1309번 - 동물원](https://www.acmicpc.net/problem/1309)
+
+</br>
+
+--------------
+
+</br>
+
 ### 2021-04-18(일) 오전11시
 
 code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)의 문제 참조  출제자 : JIA
