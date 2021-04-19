@@ -21,8 +21,6 @@ code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)�
 - [1149번 - RGB거리](https://www.acmicpc.net/problem/1149)
 - [1309번 - 동물원](https://www.acmicpc.net/problem/1309)
 
-</br>
-
 --------------
 
 </br>
