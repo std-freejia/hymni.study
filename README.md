@@ -15,7 +15,7 @@ code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)�
 
 ### BOJ
 
-- [2133번 - 타일 채우기](acmicpc.net/problem/2133)
+- [2133번 - 타일 채우기](https://www.acmicpc.net/problem/2133)
 - [13398번 - 연속합 2](https://www.acmicpc.net/problem/13398)
 - [11722번 - 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
 - [1149번 - RGB거리](https://www.acmicpc.net/problem/1149)
