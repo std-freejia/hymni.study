@@ -9,6 +9,22 @@
 
 </br>
 
+### 2021-05-02(일) 오전11시
+
+code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)의 문제 참조  출제자 : JIA
+
+### BOJ 
+
+- [16935번 - 배열 돌리기 3](https://www.acmicpc.net/problem/16935)
+- [16926번 - 배열 돌리기 1](https://www.acmicpc.net/problem/16926)
+- [16927번 - 배열 돌리기 2](https://www.acmicpc.net/problem/16927)
+- [14499번 - 주사위 굴리기](https://www.acmicpc.net/problem/14499)
+- [14890번 - 경사로](https://www.acmicpc.net/problem/14890)
+
+--------------
+
+</br>
+
 ### 2021-04-25(일) 오전11시
 
 code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)의 문제 참조  출제자 : SUN
