@@ -9,6 +9,22 @@
 
 </br>
 
+### 2021-05-16(일) 오전11시
+
+code.plus [알고리즘 중급 1/3](https://code.plus/course/43)의 문제 참조  출제자 : SUN
+
+### BOJ
+
+- [1339번 - 단어 수학](https://www.acmicpc.net/problem/1339)
+- [14888번 - 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+- [14225번 - 부분수열의 합](https://www.acmicpc.net/problem/14225)
+- [16197번 - 두 동전](https://www.acmicpc.net/problem/16197)
+- [16198번 - 에너지 모으기](https://www.acmicpc.net/problem/16198)
+
+--------------
+
+</br>
+
 ### 2021-05-02(일) 오전11시
 
 code.plus [2021 코딩 테스트 준비 - 기초](https://code.plus/course/51)의 문제 참조  출제자 : JIA
